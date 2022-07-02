@@ -1,0 +1,297 @@
+Gamics - Create Manage Matches
+
+
+
+#---------- HEDER ----------#
+
+Exclusive Black Friday ! Offer 
+10 
+Days
+
+Follow us on :
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-pinterest"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+
+Gamics
+
+Home
+Live
+Features
+Shop
+Blog
+Contact
+
+aria-label = cart
+
+<ion-icon name="cart"></ion-icon>
+0
+
+aria-label = open search
+
+<ion-icon name="search-outline"></ion-icon>
+
+aria-label = toggle menu
+<ion-icon name="menu-outline" class="menu"></ion-icon>
+<ion-icon name="close-outline" class="close"></ion-icon>
+
+
+
+#---------- SEARCH BOX ----------#
+
+aria-label = search
+
+placeholder = Search here...
+
+aria-label = submit search
+<ion-icon name="search-outline"></ion-icon>
+
+aria-label = close search
+
+
+
+#---------- HERO ----------#
+
+World Gaming
+
+Create Manage Matches
+
+Find technology or people for digital projects in public sector and Find an individual specialist develope researcher.
+
+Read More
+
+alt = hero banner
+
+
+
+#---------- BRAND ----------#
+
+alt = brand logo
+
+
+
+#---------- LATEST GAME ----------#
+
+Latest Releases
+
+Create & Manage
+
+alt = White Walker Daily
+
+Zombie
+
+White Walker
+Daily
+
+Entry Fee :
+Free
+
+alt = Hunter Killer II
+
+Adventure
+
+Hunter Killer
+II
+
+Entry Fee : 
+$25.00
+
+alt = Cyberpunk Daily
+
+Action
+
+Cyberpunk
+Daily
+
+
+
+#---------- LIVE MATCH ----------#
+
+Watch Live 
+Match
+
+alt = Live Match Video
+
+aria-label = play video
+<ion-icon name="play"></ion-icon>
+
+alt = tokyo eagle
+
+Upcoming Live Matches
+
+08:30
+
+alt = new york hunter7
+
+
+
+#---------- FEATURED GAME ----------#
+
+All Released
+Games
+
+alt = Just for Gamers
+
+Just for
+Gamers
+
+<ion-icon name="notifications"></ion-icon>
+
+Playstation 5, Xbox
+
+alt = Need for Speed
+
+Need for
+Speed
+
+alt = Egypt Hunting Gamers
+
+Egypt Hunting
+Gamers
+
+alt = Just for Gamers
+
+Just for
+Gamers
+
+
+
+#---------- SHOP ----------#
+
+Gaming Product 
+Corner
+
+Compete with 100 players on a remote island for winner takes showdown known issue where certain skin strategic
+
+alt = Women Black T-Shirt
+
+t-shirt
+
+Women Black T-Shirt
+
+$29.00
+
+<ion-icon name="basket"></ion-icon>
+
+
+alt = Gears 5 Xbox Controller
+
+x-box
+
+Gears 5 Xbox Controller
+
+
+alt = GeForce RTX 2070
+
+Graphics
+
+GeForce RTX 2070
+
+
+alt = Virtual Reality Smiled
+
+VR-Box
+
+Virtual Reality Smiled
+
+
+
+#---------- BLOG ----------#
+
+Latest News &
+Articles
+
+Compete With 100 Players On A Remote Island For Winner Takes Showdown Known Issue Where Certain Skin Strategic
+
+alt = Shooter Action Video
+
+<ion-icon name="person-outline"></ion-icon>
+Admin
+
+<ion-icon name="calendar-outline"></ion-icon>
+September 19, 2022
+
+Shooter Action Video
+
+Compete With 100 Players On A Remote Island Thats Winner Takes Showdown Known Issue.
+
+Read More
+
+<ion-icon name="caret-forward"></ion-icon>
+
+alt = The Walking Dead
+
+alt = Defense Of The Ancients
+
+
+
+#---------- NEWSLETTER ----------#
+
+Our
+Newsletter
+
+placeholder = Enter your email...
+
+<ion-icon name="mail-outline"></ion-icon>
+
+Subscribe
+<ion-icon name="paper-plane" aria-hidden="true"></ion-icon>
+
+
+
+#---------- FOOTER ----------#
+
+Gamics
+
+Gamics marketplace the relase etras thats sheets continig passag.
+
+<ion-icon name="location"></ion-icon>
+Address : PO Box W75 Street lan West new queens
+
+<ion-icon name="headset"></ion-icon>
+Phone : +24 1245 654 235
+
+<ion-icon name="mail-open"></ion-icon>
+Email : info@exemple.com
+
+Products
+
+Graphics (26)
+Backgrounds (11)
+Fonts (9)
+Music (3)
+Photography (3)
+
+Need Help?
+
+Terms & Conditions
+Privacy Policy
+Refund Policy
+Affiliate
+Use Cases
+
+Follow Us
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-pinterest"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+
+Newsletter Sign Up
+
+placeholder = Enter your email
+
+aria-label = submit
+<ion-icon name="rocket"></ion-icon>
+
+&copy; 2022 Gamics. All Right Reserved by codewithsadee
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = back to top
+
+<ion-icon name="caret-up"></ion-icon>
